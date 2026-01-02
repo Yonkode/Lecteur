@@ -1,0 +1,199 @@
+**1. Fichiers texte / documents**
+
+* .txt — texte brut
+* .pdf — document portable
+* .doc — Microsoft Word
+* .docx — Word (XML)
+* .odt — OpenDocument Texte
+* .rtf — Rich Text Format
+* .md — Markdown
+* .tex — LaTeX
+* .epub — Livre numérique
+* .mobi — Livre Kindle
+* .csv — valeurs séparées par virgule
+* .log — fichiers journaux
+
+---
+
+# 📸 **2. Images**
+
+* .jpg / .jpeg — image compressée
+* .png — image avec transparence
+* .gif — animations
+* .bmp — bitmap
+* .tiff — image haute qualité
+* .webp — image moderne
+* .heic — format Apple
+* .svg — vecteur
+* .ico — icône
+* .psd — Photoshop
+* .xcf — GIMP
+
+---
+
+# 🎵 **3. Audio**
+
+* .mp3
+* .wav
+* .flac
+* .aac
+* .ogg
+* .m4a
+* .wma
+* .opus
+* .mid / .midi
+* .aiff
+
+---
+
+# 🎬 **4. Vidéo**
+
+* .mp4
+* .mkv
+* .avi
+* .mov
+* .wmv
+* .flv
+* .webm
+* .mpeg / .mpg
+* .3gp
+* .ogv
+
+---
+
+# 📦 **5. Archives / compression**
+
+* .zip
+* .rar
+* .7z
+* .tar
+* .gz
+* .bz2
+* .xz
+* .iso — image disque
+* .dmg — image macOS
+* .cbz — Comic Book ZIP
+* .cbr — Comic Book RAR
+
+---
+
+# 🗂 **6. Données / bases de données**
+
+* .json
+* .xml
+* .yaml / .yml
+* .ini
+* .db / .sqlite
+* .sql
+* .mdb — Access
+* .parquet
+* .avro
+
+---
+
+# 📊 **7. Fichiers bureautiques (tableurs, présentations)**
+
+* .xls
+* .xlsx
+* .ods — OpenDocument Spreadsheet
+* .ppt
+* .pptx
+* .odp
+
+---
+
+# 🖥 **8. Code source**
+
+### Multilingue :
+
+* .c
+* .cpp
+* .h / .hpp
+* .java
+* .py
+* .js / .jsx
+* .ts / .tsx
+* .php
+* .rb
+* .go
+* .rs — Rust
+* .cs — C#
+* .swift
+* .kt — Kotlin
+* .sh — shell script
+* .bat — batch Windows
+
+---
+
+# 🧩 **9. Exécutables / programmes**
+
+* .exe — Windows
+* .msi — installateur Windows
+* .apk — Android
+* .deb — paquet Debian / Ubuntu
+* .rpm — paquet Red Hat
+* .app — macOS
+* .jar — Java
+* .dll — bibliothèque Windows
+* .so — bibliothèque Linux
+* .bin — binaire
+
+---
+
+# 🎮 **10. Jeux vidéo**
+
+* .iso — image disque
+* .rom — ROM rétro
+* .sav — sauvegarde
+* .pak — Unreal Engine
+* .wad — Doom
+* .unity3d — Unity assets
+* .rpgsave — RPG Maker
+* .map — cartes de jeu
+
+---
+
+# 🧬 **11. Fichiers scientifiques / 3D**
+
+* .stl — impression 3D
+* .obj — modèle 3D
+* .fbx — animations
+* .blend — Blender
+* .dcm — DICOM médical
+* .mat — MATLAB
+* .npz — Numpy
+
+---
+
+# 🔒 **12. Sécurité / certificats**
+
+* .pem
+* .crt
+* .key
+* .pfx
+* .p12
+* .asc — PGP
+
+---
+
+# 🕹 **13. Systèmes / configuration**
+
+* .conf
+* .sys
+* .service
+* .reg — registre Windows
+* .fstab
+* .hosts
+
+---
+
+# 📑 **14. Divers**
+
+* .torrent
+* .cue
+* .ics — calendrier
+* .srt — sous-titres
+* .vtt — sous-titres web
+* .ttf — police
+* .otf — police
+
